@@ -1,1 +1,10 @@
-
+[
+  {
+		"name": "Remove Ice",
+		"turnsToBuild": 6,
+		"terrainsCanBeBuiltOn": ["Ice"],
+		"techRequired": "Agriculture",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
+	},
+]
