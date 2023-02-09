@@ -1,3 +1,5 @@
+
+/*
 game.png
 size: 2048, 2048
 format: RGBA8888
@@ -17,3 +19,4 @@ TileSets/FantasyHex/Units/Ice Breaker
   orig: 100, 100
   offset: 0, 0
   index: -1
+\*
