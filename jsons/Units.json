@@ -1,6 +1,6 @@
 [
   {
-		"name": "Ice-Breaker",
+		"name": "Ice Breaker",
 		"unitType": "Civilian Water",
 		"movement": 5,
 		"uniques": ["Can build [Water] improvements on tiles","Can enter ice tiles","Can build [Remove Ice] improvements on tiles"],
