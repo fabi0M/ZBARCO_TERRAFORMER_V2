@@ -1,7 +1,0 @@
-{
-		"name": "Ice",
-		"type": "TerrainFeature",
-		"impassable": true,
-		"overrideStats": true,
-		"occursOn": ["Ocean", "Coast"]
-	},
