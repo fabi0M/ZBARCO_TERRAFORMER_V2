@@ -5,7 +5,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Units/Ice Breaker
+TileSets/Ice Breaker
   rotate: false
   xy: 1438, 1256
   size: 32, 32
@@ -19,4 +19,3 @@ TileSets/FantasyHex/Units/Ice Breaker
   orig: 100, 100
   offset: 0, 0
   index: -1
-\*
