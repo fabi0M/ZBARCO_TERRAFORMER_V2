@@ -11,6 +11,13 @@ TileSets/AbsoluteUnits/Units/Ice Breaker
   orig: 64, 56
   offset: 0, 0
   index: -1
+ TileSets/FantasyHex/Units/Ice Breaker
+  rotate: false
+  xy: 112, 48
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 UnitIcons/Ice Breaker
   rotate: false
   xy: 4, 4
