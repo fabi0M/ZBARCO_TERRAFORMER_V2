@@ -1,7 +1,7 @@
 [
   {
 		"name": "Remove Ice",
-		"turnsToBuild": 8,
+		"turnsToBuild": 14,
 		"terrainsCanBeBuiltOn": ["Ice"],
 		"techRequired": "Agriculture",
 		"uniques": ["Can be built outside your borders"],
