@@ -1,6 +1,6 @@
 [
   {
-		"name": "Breaker Ice",
+		"name": "Breakers Ice",
 		"terrainsCanBeBuiltOn": ["Ice"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile"],
