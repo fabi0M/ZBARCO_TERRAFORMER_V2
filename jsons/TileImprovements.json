@@ -1,6 +1,6 @@
 [
   {
-		"name": "Remove Ice",
+		"name": "Ice",
 		"turnsToBuild": 14,
 		"terrainsCanBeBuiltOn": ["Ice"],
 		"techRequired": "Oceanography",
