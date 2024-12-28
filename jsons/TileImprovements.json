@@ -9,7 +9,7 @@
 	},
 {
 		"name": "Terreno Artificial",
-		"terrainsCanBeBuiltOn": ["Coast, Ocean"],
+		"terrainsCanBeBuiltOn": ["Coast", "Ocean"],
 		"uniques": [
 			"Turn this tile into a [Desert] tile",
 			"Cannot be built on [Ice] tiles"]
