@@ -4,7 +4,7 @@
 		"unitType": "Civilian Water",
 		"movement": 5,
 	  	"requiredTech": "Oceanography",
-		"uniques": ["Can build [Water] improvements on tiles","Can enter ice tiles","Can build [Desert] improvements on tiles, Can build [Remove Ice] improvements on tiles"],
+		"uniques": ["Can build [Water] improvements on tiles","Can enter ice tiles","Can build [Desert] improvements on tiles, Can build [Ocean] improvements on tiles"],
 		"cost": 325
 	},
   ]
