@@ -5,11 +5,12 @@
 		"movement": 5,
 	  	"requiredTech": "Steam Power",
 		"uniques": [
+			"Can be built outside your borders",
 			"Can instantly construct a [Terreno Artificial] improvement <once> <in tiles without [Ice]> <after which this unit is consumed>",
 			"Can build [Water] improvements on tiles", 
 			"Can enter ice tiles", 
 			"Can build [Remove Ice] improvements on tiles", 
-			"Can be built outside your borders"],
+			],
 		"cost": 325
 	},
 ]
