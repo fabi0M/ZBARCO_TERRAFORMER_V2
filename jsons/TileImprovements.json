@@ -2,7 +2,7 @@
   {
 		"name": "Remove Ice",
 		"turnsToBuild": 14,
-		"terrainsCanBeBuiltOn": ["Ice"],
+		"terrainsCanBeBuiltOn": ["Ice", "Can be built outside your borders"],
 		"techRequired": "Ecology",
 		"uniques": ["Can be built outside your borders", "Turn this tile into a [Coast] tile"],
 		"shortcutKey": "X"
