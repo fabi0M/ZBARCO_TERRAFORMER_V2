@@ -5,7 +5,7 @@
 		"movement": 5,
 	  	"requiredTech": "Oceanography",
 		"uniques": [
-			"Can instantly construct a [Brake Ice] improvement <once> <after which this unit is consumed>"],
+			"Can instantly construct a [Breaker Ice] improvement <once> <after which this unit is consumed>"],
 		"cost": 325
 	},
   ]
