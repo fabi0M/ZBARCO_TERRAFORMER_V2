@@ -1,6 +1,6 @@
 [
   {
-		"name": "Barco Terraformer",
+		"name": "BarcoTerraformer",
 		"unitType": "Civilian Water",
 		"movement": 5,
 	  	"requiredTech": "Steam Power",
