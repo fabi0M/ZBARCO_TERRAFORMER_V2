@@ -12,7 +12,7 @@
 		"terrainsCanBeBuiltOn": ["Coast", "Ocean"],
 		"uniques": [
 			"Can be built outside your borders",
-			"Turn this tile into a [Hill] tile",
+			"Turn this tile into a [Desert] tile",
 		],
 	},
 ]
