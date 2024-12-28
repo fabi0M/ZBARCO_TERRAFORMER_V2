@@ -9,7 +9,7 @@
 	},
 
   {
-		"name": "Agg Desert",
+		"name": "Add Desert",
 		"turnsToBuild": 14,
 		"terrainsCanBeBuiltOn": ["Ocean, Coast"],
 		"techRequired": "Ecology",
