@@ -4,7 +4,11 @@
 		"unitType": "Civilian Water",
 		"movement": 5,
 	  	"requiredTech": "Ecology",
-		"uniques": ["Can build [Water] improvements on tiles", "Can enter ice tiles", "Can build [Remove Ice] improvements on tiles", "Can instantly construct a [Terreno Artificial] improvement <once> <in tiles without [Ice]> <after which this unit is consumed>"],
+		"uniques": [
+			"Can build [Water] improvements on tiles", 
+			"Can enter ice tiles", 
+			"Can build [Remove Ice] improvements on tiles", 
+			"Can instantly construct a [Terreno Artificial] improvement <once> <in tiles without [Ice]> <after which this unit is consumed>"],
 		"cost": 325
 	},
 ]
