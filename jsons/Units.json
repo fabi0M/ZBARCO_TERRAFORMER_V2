@@ -3,9 +3,8 @@
 		"name": "Ice Breaker",
 		"unitType": "Civilian Water",
 		"movement": 5,
-	  	"requiredTech": "Oceanography",
-		"uniques": [
-			"Can instantly construct a [Breaker Ice] improvement <once> <after which this unit is consumed>"],
+	  	"requiredTech": "Combustion",
+		"uniques": ["Can build [Water] improvements on tiles","Can enter ice tiles","Can build [Remove Ice] improvements on tiles"],
 		"cost": 325
 	},
-  ]
+]
