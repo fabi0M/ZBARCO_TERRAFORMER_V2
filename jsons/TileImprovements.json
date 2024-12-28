@@ -13,6 +13,6 @@
 		"uniques": [
 			"Can be built outside your borders",
 			"Turn this tile into a [Hill] tile",
-			"Cannot be built on [Ice] tiles"]
+		],
 	},
 ]
