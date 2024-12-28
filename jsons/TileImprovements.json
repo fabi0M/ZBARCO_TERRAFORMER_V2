@@ -1,20 +1,8 @@
 [
   {
-		"name": "Ice",
-		"turnsToBuild": 14,
-		"terrainsCanBeBuiltOn": ["Ice"],
-		"techRequired": "Oceanography",
-		"uniques": ["Can be built outside your borders"],
-		"shortcutKey": "X"
+		"name": "Panama Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"uniques": [
+			"Turn this tile into a [Coast] tile"],
 	},
-
-  {
-		"name": "Desert",
-		"turnsToBuild": 14,
-		"terrainsCanBeBuiltOn": ["Ocean, Coast"],
-		"techRequired": "Ecology",
-		"uniques": ["Can be built outside your borders"],
-		"shortcutKey": "X"
-	},
-
 ]
