@@ -4,7 +4,7 @@
 		"unitType": "Civilian Water",
 		"movement": 5,
 	  	"requiredTech": "Steam Power",
-		"uniques": ["Can build [Water] improvements on tiles","Can enter ice tiles","Can build [Remove Ice] improvements on tiles"],
+		"uniques": ["Can be built outside your borders", "Can build [Water] improvements on tiles","Can enter ice tiles","Can build [Remove Ice] improvements on tiles"],
 		"cost": 325
 	},
 ]
