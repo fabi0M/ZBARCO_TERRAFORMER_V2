@@ -2,9 +2,19 @@
   {
 		"name": "Remove Ice",
 		"turnsToBuild": 14,
-		"terrainsCanBeBuiltOn": ["Ecology"],
-		"techRequired": "Agriculture",
+		"terrainsCanBeBuiltOn": ["Ice"],
+		"techRequired": "Oceanography",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X"
 	},
+
+  {
+		"name": "Agg Desert",
+		"turnsToBuild": 14,
+		"terrainsCanBeBuiltOn": ["Ocean, Coast"],
+		"techRequired": "Ecology",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
+	},
+
 ]
