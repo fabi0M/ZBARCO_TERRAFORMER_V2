@@ -4,7 +4,9 @@
 		"turnsToBuild": 14,
 		"terrainsCanBeBuiltOn": ["Ice"],
 		"techRequired": "Oceanography",
-		"uniques": ["Can be built outside your borders", "Turn this tile into a [Coast] tile"],
+		"uniques": [
+			"Can be built outside your borders", 
+			"Turn this tile into a [Coast] tile"],
 		"shortcutKey": "X"
 	},
 {
