@@ -1,8 +1,10 @@
 [
   {
-		"name": "Breaker Ice",
+		"name": "Remove Ice",
+		"turnsToBuild": 14,
 		"terrainsCanBeBuiltOn": ["Ice"],
-		"uniques": [
-			"Turn this tile into a [Coast] tile"],
+		"techRequired": "Ecology",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
 	},
 ]
