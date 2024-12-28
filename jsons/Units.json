@@ -1,9 +1,9 @@
 [
   {
-		"name": "Ice Breaker",
+		"name": "Barco Terraformer",
 		"unitType": "Civilian Water",
 		"movement": 5,
-	  	"requiredTech": "Ecology",
+	  	"requiredTech": "Steam Power",
 		"uniques": [
 			"Can instantly construct a [Terreno Artificial] improvement <once> <in tiles without [Ice]> <after which this unit is consumed>",
 			"Can build [Water] improvements on tiles", 
