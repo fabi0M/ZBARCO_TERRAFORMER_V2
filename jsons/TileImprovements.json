@@ -1,6 +1,6 @@
 [
   {
-		"name": "Panama Canal Construction Site",
+		"name": "Brake Ice",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile"],
