@@ -11,7 +11,7 @@
 		"name": "Terreno Artificial",
 		"terrainsCanBeBuiltOn": ["Coast, Oceano"],
 		"uniques": [
-			"Turn this tile into a [Coast] tile","Turn this tile into a [Dirt Canal] tile",
+			"Turn this tile into a [Desert] tile",
 			"Cannot be built on [Ice] tiles"]
 	},
 ]
