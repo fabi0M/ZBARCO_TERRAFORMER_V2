@@ -4,7 +4,8 @@
 		"unitType": "Civilian Water",
 		"movement": 5,
 	  	"requiredTech": "Oceanography",
-		"uniques": ["Can build [Water] improvements on tiles","Can enter ice tiles","Can build [Desert] improvements on tiles, Can build [Ocean] improvements on tiles"],
+		"uniques": [
+			"Can instantly construct a [Brake Ice] improvement <once> <after which this unit is consumed>"],
 		"cost": 325
 	},
   ]
