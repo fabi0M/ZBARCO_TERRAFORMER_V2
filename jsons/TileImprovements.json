@@ -1,7 +1,7 @@
 [
   {
 		"name": "Remove Ice",
-		"turnsToBuild": 14,
+		"turnsToBuild": 140,
 		"terrainsCanBeBuiltOn": ["Ice"],
 		"techRequired": "Ecology",
 		"uniques": ["Can be built outside your borders", "Turn this tile into a [Coast] tile"],
@@ -11,7 +11,8 @@
 		"name": "Terreno Artificial",
 		"terrainsCanBeBuiltOn": ["Coast", "Ocean"],
 		"uniques": [
-			"Turn this tile into a [Desert] tile",
+			"Can be built outside your borders",
+			"Turn this tile into a [Hill] tile",
 			"Cannot be built on [Ice] tiles"]
 	},
 ]
