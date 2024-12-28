@@ -7,4 +7,12 @@
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X"
 	},
+{
+		"name": "Terreno Artificial",
+		"terrainsCanBeBuiltOn": ["Coast", "Ocean"],
+		"uniques": [
+			"Can be built outside your borders",
+			"Turn this tile into a [Desert] tile",
+		],
+	},
 ]
